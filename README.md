@@ -6,7 +6,7 @@ An activity designed to exercise how to organize, plan, and work together to pre
 - What role can community wireless networks play in building sustainable, resilient neighborhoods, especially during disasters?
 - What role do small businesses and neighborhood anchor institutions play in a neighborhood's resilience and sustainability?
 
-### Objectives:
+### Objectives
 - Participants will use community organizing to develop social networks that strengthen bonds within each neighborhood.
 - Participants will lead their neighborhoods in the creation of an emergency communication protocol.
 - Participants will know the working principles of Digital Stewards and create methods in which they can be practiced throughout their projects.
