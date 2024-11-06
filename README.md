@@ -1,4 +1,4 @@
-<img src="assets/CTLogo.png" alt="Community Tech Logo" style="width:250px;" />
+<img src="https://github.com/Community-Tech-Lab/dontpanicorganize/blob/main/assets/CTLogo.png" alt="Community Tech Logo" style="width:250px;" />
 
 # Don't Panic, Organize!
 An activity designed to exercise how to organize, plan, and work together to prepare.
