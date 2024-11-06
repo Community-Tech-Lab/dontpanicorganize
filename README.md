@@ -84,6 +84,6 @@ Consider safety and communicate who can travel, when and what is expected depart
 - PNK setup as local server with Etherpad, chat, and file share applications.
 - Don’t Panic Map (a copy for each group).
 - Resilience Assessment Worksheet.
-- Resource Cards and Challenge Cards documents (cut up the cards, separate them by community anchor, and put them in separate envelopes. Challenge Cards envelopes should be labeled “Do not open yet”)
-- Pens and paper for notes; chart paper (optional)
+- Resource Cards and Challenge Cards documents (cut up the cards, separate them by community anchor, and put them in separate envelopes. Challenge Cards envelopes should be labeled “Do not open yet”).
+- Pens and paper for notes; chart paper (optional).
 
