@@ -14,14 +14,14 @@ What role do small businesses and neighborhood anchor institutions play in a nei
 - Participants will understand how surveying community needs ties to network design and function.
 - Participants will understand the power of effective communication and how communication networks help promote strong bonds and unity, especially during disasters.
 
-## Time Allotment - 90 minutes
+## Total Time Allotment - 90 minutes
 
 # Learning Sequence
 
 ## Introduction (10 min)
 Describe the goal of the activity: it is designed to introduce how to organize, plan, and work together to prepare. It is best done by a group of people from the same community! Participants will role play as residents of the neighborhood, with resources to offer and needs to meet. Participants should finish this activity with some skills and practical approaches to make your neighborhood more prepared and resilient.
 
-### Ideas to Present:
+### Ideas to Present
 - “Hurricane [Name]” is about to touch down on the East Coast and the power grid is no match for the high winds and heavy rain.
 - The goal of this simulated exercise is to strengthen your bonds within your neighbors and to create an emergency communication plan, which you’ll be documenting in the Etherpad app.
 - What matters here is effective communication, amongst other things.
@@ -38,7 +38,7 @@ Break up the larger group into teams of 2-3 people, though the size can vary dep
 
 ### Announcement: You have 15 minutes until the Hurricane hits. 
 
-## Activity (55 min)
+## Main Activity (55 min)
 ### Organize your team (20 min)
 Your team of residents will have 20 minutes to look at the packet of information (Resource cards) and prepare for the storm’s arrival.
 <br>
@@ -58,50 +58,32 @@ At the end of 20 minutes, the storm hits! Simulate the hurricane by flickering/d
 Announce that the storm is over but flood waters have risen and most phone lines are out.
 
 ### Collaborate with others (15 mins)
-■ Groups are now permitted to organize with other groups.
-Participants can not travel between sites; they will need to
-use the platform to locate what they need, and offer what
+Groups are now permitted to organize with other groups. Participants can not travel between sites; they will need to use the platform to locate what they need, and offer what
 they have to their neighbors.
-■ Groups should now take time to communicate with
-neighboring sites using the communication tools like
-Etherpad to find and share resources.
-■ Important questions:
-● Which group member is handling communications
-with the other groups?
-● In the chat they can paste their Etherpad link
-● What do you need from the other group?
-● What do you have to share/exchange with other
-groups?
+<br>
+Groups should now take time to communicate with neighboring sites using the communication tools like Etherpad to find and share resources.<br>
 
-● Introduce the Challenge cards (5 min)
-○ How do you adapt your communication plan to your
-challenge
+**Important questions:**
+- Which group member is handling communications with the other groups?
+- In the chat they can paste their Etherpad link
+- What do you need from the other group?
+- What do you have to share/exchange with other groups?
 
-● The flood waters have receded (5 mins)
+### Introduce the Challenge cards (5 min)
+How do you adapt your communication plan to your challenge? 
 
-○ Consider safety and communicate who can travel, when and
-what is expected departure and arrival times. Not everyone
-can leave to get resources - designate a person
+### The flood waters have receded (5 min)
+Consider safety and communicate who can travel, when and what is expected departure and arrival times. Not everyone can leave to get resources - designate a person
 
-● Conclusion (15 mins)
-● While it’s not our intention to scare you, exercises like this are
-important because we will only continue to see more flooding in
-the East Coast or other coastal regions in the United States, like
-New Orleans, and that means threats to our neighborhoods. In
-order to remain resilient, we need to organize together and
-prepare.
-● Debrief/discussion
+### Conclusion (15 mins)
+- While it’s not our intention to scare you, exercises like this are important because we will only continue to see more flooding in the East Coast or other coastal regions in the United States, like New Orleans, and that means threats to our neighborhoods. In order to remain resilient, we need to organize together and prepare.
+- Debrief/discussion. 
 
-Materials
-● Neighborhood Resiliency Guidelines handout (a copy for each
-participant)
-● PNK setup as local server with Etherpad, chat, and file share
-applications
-● Don’t Panic Map (a copy for each group)
-● Resilience Assessment Worksheet
-● Resource Cards and Challenge Cards documents (cut up the cards,
-separate them by community anchor, and put them in separate
-envelopes. Challenge Cards envelopes should be labeled “Do not open
-yet”)
-● Pens and paper for notes; chart paper (optional)
+# Materials
+- Neighborhood Resiliency Guidelines handout (a copy for each participant).
+- PNK setup as local server with Etherpad, chat, and file share applications.
+- Don’t Panic Map (a copy for each group).
+- Resilience Assessment Worksheet.
+- Resource Cards and Challenge Cards documents (cut up the cards, separate them by community anchor, and put them in separate envelopes. Challenge Cards envelopes should be labeled “Do not open yet”)
+- Pens and paper for notes; chart paper (optional)
 
