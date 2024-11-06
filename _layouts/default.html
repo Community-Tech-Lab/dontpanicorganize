@@ -14,11 +14,11 @@
     {% include head-custom.html %}
   </head>
   <body>
+    <img src="https://example.com/image.png" alt="Community Tech Logo" style="width:100px;" />
     <div class="wrapper">
       <header>
         <h1 class="header">{{ site.title | default: site.github.repository_name }}</h1>
         <p class="header">{{ site.description | default: site.github.project_tagline }}</p>
-        <img src="https://example.com/image.png" alt="Community Tech Logo" style="width:100px;" />
 
         <ul>
           {% if site.show_downloads %}
